@@ -2,7 +2,7 @@
 <h3 align="center">🎯 Data Science | Machine Learning | B.Tech CSE '29</h3>
 
 <p align="center">
-  I am a computer science student focused on building production-ready machine learning pipelines, data analytics, and quantitative finance tools. 
+  I am a computer science student focused on building production-ready machine learning pipelines, data analytics, and quantitative finance tools. Currently seeking a top-tier Data Science or MLOps internship for Summer 2026.
 </p>
 
 ---
@@ -22,18 +22,21 @@
 
 ## 📊 Github Stats
 
-<!-- 1. The Commit Streak Analytics (Centered) -->
+<!-- 1. The Commit Streak Analytics (Updates automatically on commit) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghsoni06-dotcom&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<!-- 2. Profile Views and Followers Badges (Matches the blue layout in the screenshot) -->
+<!-- 2. LIVE AUTOMATIC COUNTERS (Updates on every page reload) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_views-51600-blue?style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yuvrajsinghsoni06-dotcom?label=followers&style=flat-square&color=blue" alt="Followers" />
+  <!-- Dynamic Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=yuvrajsinghsoni06-dotcom&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  
+  <!-- Dynamic Real-Time Followers Counter -->
+  <img src="https://img.shields.io/github/followers/yuvrajsinghsoni06-dotcom?label=Followers&style=flat-square&color=blue" alt="Followers" />
 </p>
 
-<!-- 3. Overall Commit Grade Card -->
+<!-- 3. Overall Grade Card (Updates automatically based on activity) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghsoni06-dotcom&show_icons=true&theme=tokyonight" alt="GitHub Stats & Grade" />
 </p>
