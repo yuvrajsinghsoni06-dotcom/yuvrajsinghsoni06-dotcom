@@ -29,7 +29,7 @@
 
 <!-- 2. Profile Views and Followers Badges (Matches the blue layout in the screenshot) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_views-516-blue?style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile_views-51600-blue?style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/yuvrajsinghsoni06-dotcom?label=followers&style=flat-square&color=blue" alt="Followers" />
 </p>
 
