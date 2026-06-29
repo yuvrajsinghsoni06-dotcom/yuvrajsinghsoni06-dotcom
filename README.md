@@ -2,7 +2,7 @@
 <h3 align="center">🎯 Data Science | Machine Learning | B.Tech CSE '29</h3>
 
 <p align="center">
-  I am a computer science student focused on building production-ready machine learning pipelines, data analytics, and quantitative finance tools. Currently seeking a top-tier Data Science or MLOps internship for Summer 2026.
+  I am a computer science student focused on building production-ready machine learning pipelines, data analytics, and quantitative finance tools. 
 </p>
 
 ---
