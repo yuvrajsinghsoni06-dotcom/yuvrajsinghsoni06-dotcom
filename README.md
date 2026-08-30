@@ -1,42 +1,55 @@
-<h1 align="center">👋 Hi, I'm Yuvraj Singh Soni</h1>
-<h3 align="center">🎯 Data Science | Machine Learning | B.Tech CSE '29</h3>
+<div align="center">
+
+# Hi there, I'm <span style="color: #6C5CE7;">Yuvraj</span> 👋
+
+### ⚡ Software Developer & CS Undergrad
 
 <p align="center">
-  I am a computer science student focused on building production-ready machine learning pipelines, data analytics, and quantitative finance tools.
+  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+### 🐍 Contribution Activity
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+#### **Languages**
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="40" height="40"/> </a>
-  <a href="https://cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
+</p>
+
+#### **Frameworks & Libraries**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap" />
+</p>
+
+#### **Databases & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📊 Github Stats
+### 📊 GitHub Metrics
 
-<!-- 1. The Commit Streak Analytics (Bypassing cache to update faster) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajsinghsoni06-dotcom&theme=tokyonight&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
 </p>
 
-<!-- 2. LIVE AUTOMATIC COUNTERS -->
 <p align="center">
-  <!-- Dynamic Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=yuvrajsinghsoni06-dotcom&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-  
-  <!-- Dynamic Real-Time Followers Counter -->
-  <img src="https://img.shields.io/github/followers/yuvrajsinghsoni06-dotcom?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
 </p>
 
-<!-- 3. Overall Grade Card (Forced to pull fresh contributions data frequently) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajsinghsoni06-dotcom&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats & Grade" />
-</p>
+</div>
