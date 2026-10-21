@@ -26,12 +26,12 @@
 
 #### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,html,css" />
 </p>
 
 #### **Frameworks & Libraries**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,bootstrap,mongodb" />
 </p>
 
 #### **Databases & Tools**
